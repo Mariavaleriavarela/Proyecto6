@@ -28,3 +28,5 @@ Postman: Para probar las rutas de la API durante el desarrollo.
 Requisitos previos
 Node.js (versión 14 o superior)
 MongoDB (instancia local o en la nube, como MongoDB Atlas)
+
+# Gracias
