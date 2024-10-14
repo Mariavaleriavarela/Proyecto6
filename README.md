@@ -1,3 +1,4 @@
+![Proyecto 6](https://github.com/user-attachments/assets/d030de60-292a-494c-aaaf-2b0021287ec8)
 # Proyecto 6: Backend con Autenticación
 
 ## Descripción
